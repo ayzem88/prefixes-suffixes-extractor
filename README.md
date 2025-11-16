@@ -100,6 +100,14 @@ python "نقل محتويات المنصة إلى نموذج.py"
 
 هذا المشروع مخصص للاستخدام الأكاديمي والبحثي.
 
+## عن المطور
+
+**أيمن الطيّب بن نجي** ([ayzem88](https://github.com/ayzem88))
+
+خبير لغوي في معجم الدوحة التاريخي للغة العربية، مهتم بالأدوات والبرامج اللغوية، ومبرمج Vibe Coding.
+
+🌐 **الموقع الشخصي**: [aymannji.com](https://www.aymannji.com/)
+
 ## منهج التطوير
 
 أُعتمد في مشاريعي البرمجية على منهج Vibe Coding؛ أسلوب يتجاوز كتابة كلّ سطر يدوياً، إذ أوجّه نماذج الذكاء الاصطناعي بوصف منطقي وواضح للوظيفة المطلوبة، ثم أُقيّم النتائج وأُدخِل التحسينات.
@@ -215,6 +223,14 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for mo
 ## License
 
 This project is intended for academic and research use.
+
+## About the Developer
+
+**Ayman Atieb ben NJi** ([ayzem88](https://github.com/ayzem88))
+
+Linguistic expert at the Historical Dictionary of the Arabic Language of Qatar (Doha Dictionary), interested in linguistic tools and software, and a Vibe Coding programmer.
+
+🌐 **Personal Website**: [aymannji.com](https://www.aymannji.com/)
 
 ## Development Approach
 
