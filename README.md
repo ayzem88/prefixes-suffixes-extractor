@@ -100,6 +100,14 @@ python "نقل محتويات المنصة إلى نموذج.py"
 
 هذا المشروع مخصص للاستخدام الأكاديمي والبحثي.
 
+## منهج التطوير
+
+أُعتمد في مشاريعي البرمجية على منهج Vibe Coding؛ أسلوب يتجاوز كتابة كلّ سطر يدوياً، إذ أوجّه نماذج الذكاء الاصطناعي بوصف منطقي وواضح للوظيفة المطلوبة، ثم أُقيّم النتائج وأُدخِل التحسينات.
+
+هذا النهج يعزّز السرعة في إنشاء النماذج الأولية والوِحدات البرمجية، ويمنحني تركيزاً أكبر على التصوّر العام والتصميم بدلاً من التفاصيل الدقيقة.
+
+في هذا المستودع، تجد أدوات ومشاريع بُنيت بهذه المقاربة — يُرحّب بتجربتها والمساهمة فيها.
+
 ## المطور
 
 تم تطوير هذا المشروع بواسطة **أيمن الطيّب بن نجي** ([ayzem88](https://github.com/ayzem88))
@@ -208,9 +216,17 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for mo
 
 This project is intended for academic and research use.
 
+## Development Approach
+
+I adopt the Vibe Coding paradigm in my software projects: rather than writing every line manually, I direct AI models with clear natural-language descriptions of the desired functionality, then evaluate and refine the generated code.
+
+This approach accelerates prototype and module creation, allowing me to focus more on concept and design than on low-level implementation details.
+
+In this repository you'll find tools and projects developed with this mindset — feel free to explore and contribute.
+
 ## Developer
 
-Developed by **Ayman Al-Tayyib Ben Naji** ([ayzem88](https://github.com/ayzem88))
+Developed by **Ayman Atieb ben NJi** ([ayzem88](https://github.com/ayzem88))
 
 </div>
 
